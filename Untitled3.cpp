@@ -66,7 +66,7 @@ void main()
 		getch();
 	} while (choice != 4);
 }
-// ************************GOOD LUCK MUFTI*****************************
+
 void details()
 {
 	printf("\n\t Enter your passport number:");
@@ -79,7 +79,7 @@ void details()
 }
 
 
-// ************************************GOOD LUCK MUFTI************************************
+
 void details();
 
 void reserve(int x)
@@ -116,7 +116,6 @@ void reserve(int x)
 		return;
 	}
 } 
-// ************************GOOD LUCK MUFTI********************************
 
 
 void savefile()
@@ -139,7 +138,6 @@ void savefile()
 	printf("\n\n\t Details have been saved to a file (mufti records)");
 	fclose(fpointer);
 }
-//********************************GOOD LUCK MUFTI***************************************
 
 void display()
 {
@@ -155,7 +153,6 @@ void display()
 	}
 
 }
-//*****************************GOOD LUCK MUFTI*************************************
 
 void cancel()
 {
